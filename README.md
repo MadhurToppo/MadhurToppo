@@ -2,7 +2,7 @@
 #### Software Engineering
 ![Software Engineering](https://media-exp1.licdn.com/dms/image/C4E16AQEQkaEoKvdXaQ/profile-displaybackgroundimage-shrink_350_1400/0/1601040551493?e=1622678400&v=beta&t=H7PzCagAvWs_iP7IH0DTN7hL7TPR7ebYU7ZgdPEdXeg)
 
-I'm Madhur and I'm a Senior Software Engineer working on Java, Spring Boot, Microservices and Rest API's. I love learning new technologies, frameworks and building new stuffs. I also enjoy programming, designing and trying out new tools, technologies in general.
+I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Microservices and Rest API's. I love learning new technologies, frameworks and building new stuffs. I also enjoy programming, designing and trying out new tools, technologies in general.
 
 Skills: Java / Spring Boot / JS / HTML / CSS
 
@@ -11,21 +11,19 @@ Skills: Java / Spring Boot / JS / HTML / CSS
 - 👯 I’m looking to collaborate on REST API, Microservices Projects 
 - 🤔 I’m looking for help with Java, Spring, Back-End, Design, Architecture 
 - 💬 Ask me about Java, Spring Boot, REST API's, Microservices 
-- 📫 How to reach me: madhur.toppo@gmail.com 
+- 📫 How to reach me: Via socials listed below 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/madhurtoppo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/madhurtoppo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/madhurtoppo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](madhur.toppo@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/madhurtoppo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/madhurtoppo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/madhurtoppo)  
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=madhurtoppo)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurtoppo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurtoppo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=madhurtoppo)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=madhurtoppo)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=madhurtoppo)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=madhurtoppo)  
 
 ![Profile views](https://gpvc.arturio.dev/madhurtoppo)  

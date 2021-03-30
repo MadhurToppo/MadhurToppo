@@ -20,7 +20,7 @@ Skills: Java / Spring Boot / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=madhurtoppo)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurtoppo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurtoppo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=madhurtoppo)  
 

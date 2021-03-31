@@ -19,6 +19,8 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 ![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=madhurtoppo?color=2bbc8a)
+![Profile views](https://gpvc.arturio.dev/madhurtoppo?style=for-the-badge)  
+
 
 ## Skills: Java / Spring Boot / JS / HTML / CSS
 

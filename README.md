@@ -10,17 +10,12 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=for-the-badge&logo=sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
-
-![](https://visitor-badge.glitch.me/badge?page_id=madhurtoppo?color=2bbc8a)
-![Profile views](https://gpvc.arturio.dev/madhurtoppo?style=for-the-badge)  
-
 
 ## Skills: Java / Spring Boot / JS / HTML / CSS
 
@@ -44,4 +39,5 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=madhurtoppo)  
 
-![Profile views](https://gpvc.arturio.dev/madhurtoppo)  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=madhurtoppo?style=for-the-badge&color=2bbc8a)
+![Profile views](https://gpvc.arturio.dev/madhurtoppo?style=for-the-badge)  

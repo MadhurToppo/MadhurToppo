@@ -19,13 +19,12 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 
 ## ⚙️ Skills: Java / Spring Boot / JS / HTML / CSS
 
-- 🔭 I’m currently working on Rental Microservices Application 
-- 🌱 I’m currently learning Microservices Design Patterns 
-- 👯 I’m looking to collaborate on REST API, Microservices Projects 
-- 🤔 I’m looking for help with Java, Spring, Back-End, Design, Architecture 
-- 💬 Ask me about Java, Spring Boot, REST API's, Microservices 
-- 📫 How to reach me: Via socials listed below 
-
+- 🔭 I’m currently working on Rental Microservices Application
+- 🌱 I’m currently learning Microservices Design Patterns
+- 👯 I’m looking to collaborate on REST API, Microservices Projects
+- 🤔 I’m looking for help with Java, Spring, Back-End, Design, Architecture
+- 💬 Ask me about Java, Spring Boot, REST API's, Microservices
+- 📫 How to reach me: Via e-mail or socials listed below
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/madhurtoppo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/madhurtoppo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/madhurtoppo)  
 

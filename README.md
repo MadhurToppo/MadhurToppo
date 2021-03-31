@@ -4,18 +4,19 @@
 
 I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Microservices and Rest API's. I love learning new technologies, frameworks and building new stuffs. I also enjoy programming, designing and trying out new tools, technologies in general.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://visitor-badge.glitch.me/badge?page_id=abhishekpatel946.abhishekpatel946?color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
+![](https://visitor-badge.glitch.me/badge?page_id=madhurtoppo?color=2bbc8a)
 
 Skills: Java / Spring Boot / JS / HTML / CSS
 

@@ -13,8 +13,6 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://visitor-badge.glitch.me/badge?page_id=madhurtoppo?color=2bbc8a)
 

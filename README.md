@@ -1,4 +1,4 @@
-### Hi there 👋, This is Madhur Toppo
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is Madhur Toppo
 #### Software Engineering | Design and Architecture
 ![Software Engineering | Design and Architecture](https://media-exp1.licdn.com/dms/image/C4E16AQEQkaEoKvdXaQ/profile-displaybackgroundimage-shrink_350_1400/0/1601040551493?e=1622678400&v=beta&t=H7PzCagAvWs_iP7IH0DTN7hL7TPR7ebYU7ZgdPEdXeg)
 
@@ -20,7 +20,7 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 
 ![](https://visitor-badge.glitch.me/badge?page_id=madhurtoppo?color=2bbc8a)
 
-Skills: Java / Spring Boot / JS / HTML / CSS
+## Skills: Java / Spring Boot / JS / HTML / CSS
 
 - 🔭 I’m currently working on Rental Microservices Application 
 - 🌱 I’m currently learning Microservices Design Patterns 

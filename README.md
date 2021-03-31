@@ -39,4 +39,4 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=madhurtoppo)  
 
-![Profile views](https://gpvc.arturio.dev/madhurtoppo?style=for-the-badge)  
+![Profile views](https://gpvc.arturio.dev/madhurtoppo?style=for-the-badge&color=2bbc8a)  

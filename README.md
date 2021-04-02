@@ -4,9 +4,6 @@
 
 I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Microservices and Rest API's. I love learning new technologies, frameworks and building new stuffs. I also enjoy programming, designing and trying out new tools, technologies in general.
 
-![](https://gpvc.arturio.dev/madhurtoppo?color=2bbc8a&edge_flat=true)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmadhurtoppo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=java.svg&icon_color=%23E7E7E7&title=CODE&edge_flat=true)](https://hits.seeyoufarm.com)
-
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
@@ -42,4 +39,6 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=madhurtoppo)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=madhurtoppo)  
+
+![Profile views](https://gpvc.arturio.dev/madhurtoppo?color=2bbc8a&edge_flat=true)  
 

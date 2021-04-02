@@ -16,6 +16,8 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
+![Profile views](https://gpvc.arturio.dev/madhurtoppo?style=for-the-badge&color=2bbc8a)  
+
 
 ## ⚙️ Skills: Java / Spring Boot / JS / HTML / CSS
 
@@ -38,4 +40,3 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=madhurtoppo)  
 
-![Profile views](https://gpvc.arturio.dev/madhurtoppo?style=for-the-badge&color=2bbc8a)  

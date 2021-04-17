@@ -4,7 +4,6 @@
 
 I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Microservices and Rest API's. I love learning new technologies, frameworks and building new stuffs. I also enjoy programming, designing and trying out new tools, technologies in general!
 
-
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=spring&logoColor=white&color=2bbc8a)

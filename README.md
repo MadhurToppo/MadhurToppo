@@ -24,7 +24,7 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 
 ## ⚙️ Skills: Java / Spring Boot / JS / HTML / CSS
 
-- 🔭 I’m currently working on Rental Microservices Application
+- 🔭 I’m currently working on Leetcode Problems Project
 - 🌱 I’m currently learning Microservices Design Patterns
 - 👯 I’m looking to collaborate on REST API, Microservices Projects
 - 🤔 I’m looking for help with Java, Spring, Back-End, Design, Architecture

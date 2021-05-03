@@ -2,7 +2,7 @@
 #### Software Engineering | Design and Architecture
 ![Software Engineering | Design and Architecture](https://media-exp1.licdn.com/dms/image/C4E16AQEQkaEoKvdXaQ/profile-displaybackgroundimage-shrink_350_1400/0/1601040551493?e=1622678400&v=beta&t=H7PzCagAvWs_iP7IH0DTN7hL7TPR7ebYU7ZgdPEdXeg)
 
-I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Microservices and Rest API's. I love learning new technologies, frameworks and building new stuffs. I also enjoy programming, designing and trying out new tools, technologies in general!
+I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Microservices and Rest API's. I love learning new technologies, frameworks and building new stuffs. I also enjoy programming, designing and trying out new tools, technologies in general.
 
 
 ## 🔧 Tools & Technologies

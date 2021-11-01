@@ -2,7 +2,7 @@
 #### Software Engineering | Design and Architecture
 ![Software Engineering | Design and Architecture](https://media-exp1.licdn.com/dms/image/C4E16AQEQkaEoKvdXaQ/profile-displaybackgroundimage-shrink_350_1400/0/1601040551493?e=1622678400&v=beta&t=H7PzCagAvWs_iP7IH0DTN7hL7TPR7ebYU7ZgdPEdXeg)
 
-I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Microservices and Rest API's. I love learning new technologies, frameworks and building new stuffs. I also enjoy programming, designing and trying out new tools, technologies in general.
+I’m a Senior Software Engineer with 7 years project experience. Currently part of an international agile team where I’m developing for a fortune 500 company an AWS cloud based CRM. Working in a microservices environment using Java & Spring Boot.
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
@@ -38,7 +38,7 @@ I'm Madhur and am a Senior Software Engineer working on Java, Spring Boot, Micro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurtoppo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=madhurtoppo)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=madhurtoppo)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=madhurtoppo)  
 

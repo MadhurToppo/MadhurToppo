@@ -1,6 +1,6 @@
 ### Hi there, This is Madhur Toppo
 #### Software Engineering | Design and Architecture
-![Software Engineering | Design and Architecture](https://media-exp1.licdn.com/dms/image/C4E16AQEQkaEoKvdXaQ/profile-displaybackgroundimage-shrink_350_1400/0/1601040551493?e=1622678400&v=beta&t=H7PzCagAvWs_iP7IH0DTN7hL7TPR7ebYU7ZgdPEdXeg)
+Software Engineering | Design and Architecture
 
 I’m a Senior Software Engineer with 7 years project experience. Currently part of an international agile team where I’m developing for a fortune 500 company an AWS cloud based CRM. Working in a microservices environment using Java & Spring Boot.
 
@@ -26,7 +26,7 @@ I’m a Senior Software Engineer with 7 years project experience. Currently part
 - 🔭 I’m currently working on Leetcode Problems Project
 - 🌱 I’m currently learning Microservices Design Patterns
 - 👯 I’m looking to collaborate on REST API, Microservices Projects
-- 🤔 I’m looking for help with Java, Spring, Back-End, Design, Architecture
+- 🤔 I’m looking to help with Java, Spring, Back-End, Design, Architecture
 - 💬 Ask me about Java, Spring Boot, REST API's, Microservices
 - 📫 How to reach me: Via e-mail or socials listed below
 

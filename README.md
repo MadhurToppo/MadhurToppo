@@ -1,4 +1,4 @@
-### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is Madhur Toppo
+### Hi there, This is Madhur Toppo
 #### Software Engineering | Design and Architecture
 ![Software Engineering | Design and Architecture](https://media-exp1.licdn.com/dms/image/C4E16AQEQkaEoKvdXaQ/profile-displaybackgroundimage-shrink_350_1400/0/1601040551493?e=1622678400&v=beta&t=H7PzCagAvWs_iP7IH0DTN7hL7TPR7ebYU7ZgdPEdXeg)
 

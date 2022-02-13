@@ -25,8 +25,8 @@ I’m a Senior Software Engineer with 7 years project experience. Currently part
 
 ## ⚙️ Skills: Java / Spring Boot / JS / HTML / CSS
 
-- 🔭 I’m currently working on Leetcode Problems Project
-- 🌱 I’m currently learning Microservices Design Patterns
+- 🔭 I’m currently working on Microservices Design Patterns
+- 🌱 I’m currently learning Leetcode Problems Project
 - 👯 I’m looking to collaborate on REST API, Microservices Projects
 - 🤔 I’m looking to help with Java, Spring, Back-End, Design, Architecture
 - 💬 Ask me about Java, Spring Boot, REST API's, Microservices

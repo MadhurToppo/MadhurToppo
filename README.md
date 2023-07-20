@@ -41,7 +41,4 @@ I’m a Senior Software Engineer with 9+ years project experience. Currently par
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=madhurtoppo)   -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=madhurtoppo)  
-
-![Profile views](https://gpvc.arturio.dev/madhurtoppo?color=2bbc8a&edge_flat=true)  
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=madhurtoppo)

@@ -1,13 +1,13 @@
 ### Hi there, This is Madhur Toppo
 #### Software Engineering | Design and Architecture
 
-I’m a Senior Software Engineer with 8+ years project experience. Currently part of an international agile team where I’m developing for a fortune 500 company an AWS cloud based CRM. Working in a microservices environment using Java & Spring Boot.
+I’m a Senior Software Engineer with 9+ years project experience. Currently part of an international agile team where I’m developing for a fortune 500 company an AWS cloud based CRM. Working in a microservices environment using Java & Spring Boot.
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=2bbc8a)
@@ -22,14 +22,13 @@ I’m a Senior Software Engineer with 8+ years project experience. Currently par
 ![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
 
 
+## ⚙️ Skills: Java / Spring Boot / JS / Typescript / NodeJS
 
-## ⚙️ Skills: Java / Spring Boot / JS / HTML / CSS
-
-- 🔭 I’m currently working on Microservices Design Patterns
-- 🌱 I’m currently learning Leetcode Problems Project
-- 👯 I’m looking to collaborate on REST API, Microservices Projects
-- 🤔 I’m looking to help with Java, Spring, Back-End, Design, Architecture
-- 💬 Ask me about Java, Spring Boot, REST API's, Microservices
+- 🔭 I’m currently working on Java, Spring Boot, Typescript, NodeJS and AWS technologies
+- 🌱 I’m currently learning Asynchronous APIs and AWS Lambdas
+- 👯 I’m looking to collaborate on APIs and Microservices Projects
+- 🤔 I’m looking to help with Back-End, Design and Architecture
+- 💬 Ask me about Java, Typescript, NodeJS, Spring Boot, APIs and Microservices
 - 📫 How to reach me: Via e-mail or socials listed below
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/madhurtoppo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/madhurtoppo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/madhurtoppo)  

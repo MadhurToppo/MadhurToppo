@@ -10,6 +10,7 @@ I’m a Senior Software Engineer with 9+ years project experience. Currently par
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgresDB-informational?style=for-the-badge&logo=postgresdb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=for-the-badge&logo=kafka&logoColor=white&color=2bbc8a)

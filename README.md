@@ -22,7 +22,6 @@ I’m a Senior Software Engineer with 9+ years project experience. Currently par
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
 
-
 ## ⚙️ Skills: Java / Spring Boot / JS / Typescript / NodeJS
 
 - 🔭 I’m currently working on Java, Spring Boot, Typescript, NodeJS and AWS technologies

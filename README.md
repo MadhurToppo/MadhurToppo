@@ -24,10 +24,6 @@ I’m a Senior Software Engineer with 9+ years project experience. Currently par
 
 ## ⚙️ Skills: Java / Spring Boot / JS / Typescript / NodeJS
 
-- 🔭 I’m currently working on Java, Spring Boot, Typescript, NodeJS and AWS technologies
-- 🌱 I’m currently learning Asynchronous APIs and AWS Lambdas
-- 👯 I’m looking to collaborate on APIs and Microservices Projects
-- 🤔 I’m looking to help with Back-End, Design and Architecture
 - 💬 Ask me about Java, Typescript, NodeJS, Spring Boot, APIs and Microservices
 - 📫 How to reach me: Via e-mail or socials listed below
 

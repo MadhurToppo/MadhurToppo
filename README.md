@@ -1,7 +1,7 @@
 ### Hi there, This is Madhur Toppo
 #### Software Engineering | Design and Architecture
 
-I’m a Senior Software Engineer with 9+ years project experience. Currently part of an international agile team where I’m developing for a fortune 500 company an AWS cloud based CRM. Working in a microservices environment using Java, Typescript, NodeJS and Spring Boot.
+I’m a Senior Software Engineer with 9+ years project experience. Currently part of an international agile team where I’m developing for a fortune 500 company an AWS cloud based CRM. Working in a microservices environment using NodeJS, Typescript, Java and Spring Boot.
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
@@ -22,7 +22,7 @@ I’m a Senior Software Engineer with 9+ years project experience. Currently par
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
 
-## ⚙️ Skills: Java / Spring Boot / JS / Typescript / NodeJS
+## ⚙️ Skills: Typescript / NodeJS / Javascript / Java / Spring Boot
 
 - 💬 Ask me about Java, Typescript, NodeJS, Spring Boot, APIs and Microservices
 - 📫 How to reach me: Via e-mail or socials listed below

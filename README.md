@@ -1,7 +1,7 @@
 ### Hi there, This is Madhur Toppo
 #### Software Engineering | Design and Architecture
 
-I’m a Senior Software Engineer with 9+ years project experience. Currently part of an international agile team where I’m developing for a fortune 500 company an AWS cloud based CRM. Working in a microservices environment using NodeJS, Typescript, Java and Spring Boot.
+I am a skilled Senior Software Engineer with over nine years of experience in developing complex software solutions in e-commerce, finance sectors and startups. My expertise includes designing backend systems, creating APIs and UIs, implementing design patterns, applying Devops best practices, building apps end-to-end and leading teams. I have a strong proficiency in Java, Spring, Typescript, Node.js, React, Docker, Kubernetes, Microservices, APIs, Databases, AWS, Cloud and other related technologies.
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
@@ -22,9 +22,9 @@ I’m a Senior Software Engineer with 9+ years project experience. Currently par
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
 
-## ⚙️ Skills: Typescript / NodeJS / Javascript / Java / Spring Boot
+## ⚙️ Skills: Java/ Spring / JavaScript / TypeScript / NodeJS
 
-- 💬 Ask me about Java, Typescript, NodeJS, Spring Boot, APIs and Microservices
+- 💬 Ask me about Java, Spring Boot, JavaScript, NodeJS, Spring Boot, APIs, Microservices, System Design and Architecture
 - 📫 How to reach me: Via e-mail or socials listed below
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/madhurtoppo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/madhurtoppo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/madhurtoppo)  

@@ -24,7 +24,7 @@ I am a skilled Senior Software Engineer with over nine years of experience in de
 
 ## ⚙️ Skills: Java/ Spring / JavaScript / TypeScript / NodeJS
 
-- 💬 Ask me about Java, Spring Boot, JavaScript, NodeJS, Spring Boot, APIs, Microservices, System Design and Architecture
+- 💬 Ask me about Java, Spring Boot, JavaScript, Node.js, APIs, Microservices, System Design and Architecture
 - 📫 How to reach me: Via e-mail or socials listed below
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/madhurtoppo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/madhurtoppo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/madhurtoppo)  

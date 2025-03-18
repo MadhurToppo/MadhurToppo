@@ -1,8 +1,5 @@
 ### Hi there, This is Madhur Toppo
 #### Software Engineering | Design and Architecture
-
-I am a skilled Senior Software Engineer with over ten years of experience in developing complex software solutions in e-commerce, finance sectors and startups. My expertise includes designing backend systems, creating APIs and UIs, implementing design patterns, applying Devops best practices, building apps end-to-end and leading teams. I have a strong proficiency in Java, Spring, Typescript, Node.js, React, Docker, Kubernetes, Microservices, APIs, Databases, AWS, Cloud and other related technologies.
-
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=spring&logoColor=white&color=2bbc8a)
